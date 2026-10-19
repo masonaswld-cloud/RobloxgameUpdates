@@ -1,0 +1,12 @@
+{
+  "name": "roblox-game-updates",
+  "version": "1.0.0",
+  "description": "Roblox Game Update API for Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
